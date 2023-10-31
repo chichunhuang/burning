@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkburny=self.webpackChunkburny||[]).push([[2454],{1186:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/burning/en/blog/tags/hola","allTagsPath":"/burning/en/blog/tags","count":1}')}}]);

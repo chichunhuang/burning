@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkburny=self.webpackChunkburny||[]).push([[1897],{9187:e=>{e.exports=JSON.parse('{"permalink":"/burning/en/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
