@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Burny\'s',
   tagline: 'Wellcome to My Gallery',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/burny_logo_circle_70_70.png',
 
   // Set the production url of your site here
   url: 'https://chichunhuang.github.io',
@@ -66,14 +66,14 @@ const config = {
     ({
 	
 	//i18n dropdownchoice
-	navbar: {
-      items: [
-        {
-          type: 'localeDropdown',
-          position: 'left',
-        },
-      ],
-    },
+	//navbar: {
+    //  items: [
+    //    {
+    //      type: 'localeDropdown',
+    //      position: 'left',
+    //    },
+    //  ],
+    //},
 	
 	
       // Replace with your project's social card
@@ -91,8 +91,8 @@ const config = {
 		title: 'Burny\'s',
         
 		logo: {
-          alt: 'Gallery Icon',
-          src: 'img/logo.svg',
+          alt: 'Burnys Gallery Icon',
+          src: 'img/burny_logo_circle_70_70.png',
         },
 		
 		// when page scroll down, the menu banner will be displayed or not
