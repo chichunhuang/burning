@@ -106,6 +106,7 @@ const config = {
             label: 'Gallery',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          //{to: '/ReactLayoutTest', label: '由React編的page-ReactLayoutTest', position: 'left'},
           //{
           //  href: 'https://github.com/facebook/docusaurus',
           //  label: 'GitHub',
