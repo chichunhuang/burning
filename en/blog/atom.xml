@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chichunhuang.github.io/burning/en/blog"/>
     <subtitle>Burny's Blog</subtitle>
-    <icon>https://chichunhuang.github.io/burning/en/img/favicon.ico</icon>
+    <icon>https://chichunhuang.github.io/burning/en/img/burny_logo_circle_70_70.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://chichunhuang.github.io/burning/en/blog/welcome</id>
