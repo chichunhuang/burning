@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkburny=self.webpackChunkburny||[]).push([[3444],{8021:e=>{e.exports=JSON.parse('{"permalink":"/burning/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

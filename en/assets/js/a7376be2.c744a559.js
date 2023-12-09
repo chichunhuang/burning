@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkburny=self.webpackChunkburny||[]).push([[9540],{6549:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/burning/en/blog/tags/facebook","allTagsPath":"/burning/en/blog/tags","count":1}')}}]);
